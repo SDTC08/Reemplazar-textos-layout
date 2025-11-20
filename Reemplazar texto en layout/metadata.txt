@@ -8,8 +8,8 @@ email=tu@email.com
 
 about=Este plugin permite buscar y reemplazar textos en todos los elementos de texto de los layouts de QGIS. Útil para actualizar información en composiciones de impresión de forma rápida.
 
-tracker=http://bugs
-repository=http://repo
+tracker=https://github.com/SDTC08/Reemplazar-textos-layout/issues
+repository=https://github.com/SDTC08/Reemplazar-textos-layout
 category=Plugins
 icon=icon.png
 experimental=False
