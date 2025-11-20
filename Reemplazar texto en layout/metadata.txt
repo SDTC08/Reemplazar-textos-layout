@@ -1,4 +1,4 @@
-[general]
+EPA
 name=Layout Text Replacer
 qgisMinimumVersion=3.0
 description=Reemplaza textos en elementos de layout (etiquetas) de forma masiva
