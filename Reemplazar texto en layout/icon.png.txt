@@ -1,0 +1,2 @@
+Nota: Crea un ícono PNG de 24x24 píxeles para el plugin.
+Puedes usar cualquier ícono o crear uno simple con herramientas gráficas.

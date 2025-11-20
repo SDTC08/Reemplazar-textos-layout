@@ -1,0 +1,16 @@
+[general]
+name=Layout Text Replacer
+qgisMinimumVersion=3.0
+description=Reemplaza textos en elementos de layout (etiquetas) de forma masiva
+version=1.0
+author=Tu Nombre
+email=tu@email.com
+
+about=Este plugin permite buscar y reemplazar textos en todos los elementos de texto de los layouts de QGIS. Útil para actualizar información en composiciones de impresión de forma rápida.
+
+tracker=http://bugs
+repository=http://repo
+category=Plugins
+icon=icon.png
+experimental=False
+deprecated=False
