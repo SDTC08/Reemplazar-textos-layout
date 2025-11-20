@@ -48,7 +48,7 @@ Plugin de QGIS que permite buscar y reemplazar textos en elementos de etiqueta (
 Este plugin es software libre y puede ser modificado y distribuido libremente.
 
 ## Autor
-Tu Nombre - tu@email.com
+Damaris Toledo - cusos@epa-edu.com
 
 ## Contribuciones
 Las contribuciones son bienvenidas. Por favor, reporta bugs o sugiere mejoras.
